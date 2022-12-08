@@ -4,6 +4,4 @@
       return $('.box').toggleClass('open');
     });
   
-  }).call(this);
-  
-  
+  }).call(this);  
