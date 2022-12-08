@@ -25,12 +25,15 @@ Here are some ideas to get you started:
 
 
 
-<button onclick="location.href='https://yuvarajnavalur.github.io/'" id="submit">REFRESH</button>
 <button onclick="location.href='https://yuvarajnavalur.github.io/resume/'" id="submit">Resume</button>
-<button onclick="location.href='https://yuvarajnavalur.github.io/PreLoader/'" id="submit">PreLoading Page</button>
+
 <button onclick="location.href='https://yuvarajnavalur.github.io/Photo-Tear-Effect/'" id="submit">Photo Tear-Down Effect</button>
-
-
-<button onclick="location.href='https://yuvarajnavalur.github.io/New-login-page/'" id="submit">Demo Login Page</button>
+<button onclick="location.href='https://yuvarajnavalur.github.io/New-login-page/'" id="submit">New Login Page</button>
 <button onclick="location.href='https://yuvarajnavalur.github.io/Show-Password_Scan-Mode/'" id="submit">Show-Password_Scan-Mode</button>
 <button onclick="location.href='https://yuvarajnavalur.github.io/View-form-password-flashlight-effect-CSS/'" id="submit">Show-Password_Torch-Mode</button>
+
+<button onclick="location.href='https://yuvarajnavalur.github.io/PreLoader/'" id="submit">PreLoading Page</button>
+<button onclick="location.href='https://yuvarajnavalur.github.io/Cafe-Menu-Layout/'" id="submit">Cafe-Menu</button>
+<button onclick="location.href='https://yuvarajnavalur.github.io/'" id="submit">REFRESH</button>
+<button onclick="location.href='https://yuvarajnavalur.github.io/'" id="submit">REFRESH</button>
+<button onclick="location.href='https://yuvarajnavalur.github.io/'" id="submit">REFRESH</button>
