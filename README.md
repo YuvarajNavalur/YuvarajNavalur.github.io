@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 <p>Check out  my <a href="https://yuvarajnavalur.github.io/View-form-password-flashlight-effect-CSS/" target="_blank" rel="noopener noreferrer">View Password Effect</a>.</p>
 <p>Check out  my <a href="https://yuvarajnavalur.github.io/resume/" target="_blank" rel="noopener noreferrer">Resume</a>.</p>
 <p>Check out  my <a href="https://yuvarajnavalur.github.io/resume/" target="_blank" rel="noopener noreferrer">Resume</a>.</p>
+<button onclick="location.href='https://yuvarajnavalur.github.io/'" id="submit">Sign in</button>
