@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 <p>Check out  my <a href="https://yuvarajnavalur.github.io/PreLoader/" target="_blank" rel="noopener noreferrer">Cool Page PreLoading</a>.</p>
 <p>Check out  my <a href="https://yuvarajnavalur.github.io/View-form-password-flashlight-effect-CSS/" target="_blank" rel="noopener noreferrer">View Password Effect</a>.</p>
 
+<p>Check out  my <a href="https://yuvarajnavalur.github.io/New-login-page/" target="_blank" rel="noopener noreferrer">New Login Page</a>.</p>
+
 
 
 <button onclick="location.href='https://yuvarajnavalur.github.io/'" id="submit">REFRESH</button>
@@ -28,4 +30,6 @@ Here are some ideas to get you started:
 <button onclick="location.href='https://yuvarajnavalur.github.io/PreLoader/'" id="submit">PreLoading Page</button>
 <button onclick="location.href='https://yuvarajnavalur.github.io/Photo-Tear-Effect/'" id="submit">Photo Tear-Down Effect</button>
 <button onclick="location.href='https://yuvarajnavalur.github.io/View-form-password-flashlight-effect-CSS/'" id="submit">Torch View Password Effect</button>
+
+<button onclick="location.href='https://yuvarajnavalur.github.io/New-login-page/'" id="submit">Demo Login Page</button>
 
