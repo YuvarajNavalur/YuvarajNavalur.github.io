@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>Check out  my <a href="https://yuvarajnavalur.github.io/resume/" target="_blank" rel="noopener noreferrer">Resume</a>.</p>
-<p>Check out  my <a href="https://yuvarajnavalur.github.io/resume/" target="_blank" rel="noopener noreferrer">Resume</a>.</p>
-<p>Check out  my <a href="https://yuvarajnavalur.github.io/resume/" target="_blank" rel="noopener noreferrer">Resume</a>.</p>
+<p>Check out  my <a href="https://yuvarajnavalur.github.io/Photo-Tear-Effect/" target="_blank" rel="noopener noreferrer">Photo Tear-Down Effect</a>.</p>
+<p>Check out  my <a href="https://yuvarajnavalur.github.io/PreLoader/" target="_blank" rel="noopener noreferrer">Cool Page PreLoading</a>.</p>
 <p>Check out  my <a href="https://yuvarajnavalur.github.io/view-form-password-flashlight-effect-css/" target="_blank" rel="noopener noreferrer">View Password Effect</a>.</p>
 <p>Check out  my <a href="https://yuvarajnavalur.github.io/resume/" target="_blank" rel="noopener noreferrer">Resume</a>.</p>
 <p>Check out  my <a href="https://yuvarajnavalur.github.io/resume/" target="_blank" rel="noopener noreferrer">Resume</a>.</p>
