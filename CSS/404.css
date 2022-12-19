@@ -4,3 +4,5 @@
   display: block;
   background: white
 }
+
+body { background-image: linear-gradient(color, color); }
